@@ -61,31 +61,5 @@ A complete **Online Store Management System** built using **AppSheet**, **Google
 | **User Access**       | Manage user roles and permissions                       |
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Copy the Google Sheets Template
-
-- [Click here to copy the sheet](https://docs.google.com/spreadsheets/your-template-link)
-
-### 2. Open AppSheet and Create Your App
-
-1. Go to [AppSheet](https://www.appsheet.com)
-2. Click “Start from your own data”
-3. Select the Google Sheet you copied
-4. Customize app views and permissions
-
-### 3. Setup Telegram Integration (Optional)
-
-1. Create a Telegram bot via [@BotFather](https://t.me/BotFather)
-2. Copy the Bot Token
-3. Create a Google Apps Script project
-4. Use the script below to send messages:
-
-```javascript
-function sendTelegram(text) {
-  var token = 'YOUR_BOT_TOKEN';
-  var chat_id = 'YOUR_CHAT_ID';
-  var url = 'https://api.telegram.org/bot' + token + '/sendMessage?chat_id=' + chat_id + '&text=' + encodeURIComponent(text);
-  UrlFetchApp.fetch(url);
-}
+![Database Google Sheet](evthing per year.png)
+![App Screenshot](onlinestore.png)
