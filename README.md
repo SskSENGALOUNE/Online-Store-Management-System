@@ -61,5 +61,5 @@ A complete **Online Store Management System** built using **AppSheet**, **Google
 | **User Access**       | Manage user roles and permissions                       |
 
 ---
-![Database Google Sheet](evthing per year.png)
-![App Screenshot](onlinestore.png)
+![Database Google Sheet](sheet-per-month.png)
+![Database Google Sheet](evthing-per-year.png)
