@@ -6,7 +6,7 @@ A complete **Online Store Management System** built using **AppSheet**, **Google
 
 ## 🖼️ App Screenshot
 
-![App Screenshot](images/store-app-demo.png)
+![App Screenshot](onlinestore.png)
 
 > _Place your screenshot in the `/images` folder and name it `store-app-demo.png`._
 
